@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoriaTipologias", "MemoriaTipologias.csproj", "{8E93C118-CE16-4F41-9E9C-6F4FAE630E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LectorMemorias", "..\LectorMemorias\LectorMemorias.csproj", "{A921D1A9-25F7-4280-8D1D-CBE08FCAF63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E93C118-CE16-4F41-9E9C-6F4FAE630E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E93C118-CE16-4F41-9E9C-6F4FAE630E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E93C118-CE16-4F41-9E9C-6F4FAE630E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E93C118-CE16-4F41-9E9C-6F4FAE630E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A921D1A9-25F7-4280-8D1D-CBE08FCAF63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A921D1A9-25F7-4280-8D1D-CBE08FCAF63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A921D1A9-25F7-4280-8D1D-CBE08FCAF63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A921D1A9-25F7-4280-8D1D-CBE08FCAF63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4123934A-0092-41CC-88AD-F37B11BA6F41}
+	EndGlobalSection
+EndGlobal
